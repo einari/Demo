@@ -1,0 +1,10 @@
+{
+"private": true,
+"author": "Dolittle",
+"license": "MIT",
+"workspaces": [
+"Source/**/*"
+],
+"dependencies": {},
+"devDependencies": {}
+}
